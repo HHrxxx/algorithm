@@ -1,0 +1,192 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="865b62be-979c-4a6a-86e2-d807d44981af" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1VyJhODm6X1tXs6qESlJmBZEQR5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../TaxSpider-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\JetBrains\IdeaProjects\algorithm\src" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application._array_combinationSum2">
+    <configuration name="_array_combinationSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode._array_combinationSum" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="_array_combinationSum2" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="leetcode._array_combinationSum2" />
+      <module name="algorithm" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="leetcode.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application._array_combinationSum2" />
+        <item itemvalue="Application._array_combinationSum" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="865b62be-979c-4a6a-86e2-d807d44981af" name="Default Changelist" comment="" />
+      <created>1578219520327</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578219520327</updated>
+      <workItem from="1578219523695" duration="61000" />
+      <workItem from="1578219825886" duration="116000" />
+      <workItem from="1578223968923" duration="2916000" />
+      <workItem from="1578226917834" duration="421000" />
+      <workItem from="1578230696724" duration="60000" />
+      <workItem from="1578383180000" duration="4867000" />
+      <workItem from="1578388081414" duration="13000" />
+      <workItem from="1578388122685" duration="29000" />
+      <workItem from="1578388194603" duration="660000" />
+      <workItem from="1578396944055" duration="174000" />
+      <workItem from="1578473316565" duration="1004000" />
+      <workItem from="1578887633516" duration="4000" />
+      <workItem from="1578887657466" duration="1929000" />
+      <workItem from="1578933564873" duration="438000" />
+      <workItem from="1579115982108" duration="23000" />
+      <workItem from="1579117984525" duration="34000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="453" y="286" width="894" height="291" key="#com.intellij.codeInsight.template.impl.EditVariableDialog" timestamp="1578227031004">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="453" y="286" width="894" height="291" key="#com.intellij.codeInsight.template.impl.EditVariableDialog/0.0.1474.864@0.0.1474.864" timestamp="1578227031004" />
+    <state x="452" y="152" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog" timestamp="1578386439456">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="452" y="152" key="#com.intellij.refactoring.move.moveMembers.MoveMembersDialog/0.0.1474.864@0.0.1474.864" timestamp="1578386439456" />
+    <state width="402" height="466" key="DebuggerActiveHint" timestamp="1578385916095">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="402" height="466" key="DebuggerActiveHint/0.0.1474.864@0.0.1474.864" timestamp="1578385916095" />
+    <state x="517" y="188" key="FileChooserDialogImpl" timestamp="1578383284581">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="517" y="188" key="FileChooserDialogImpl/0.0.1474.864@0.0.1474.864" timestamp="1578383284581" />
+    <state width="1342" height="161" key="GridCell.Tab.0.bottom" timestamp="1579118018424">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1342" height="161" key="GridCell.Tab.0.bottom/0.0.1474.864@0.0.1474.864" timestamp="1579118018424" />
+    <state width="1342" height="161" key="GridCell.Tab.0.center" timestamp="1579118018424">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1342" height="161" key="GridCell.Tab.0.center/0.0.1474.864@0.0.1474.864" timestamp="1579118018424" />
+    <state width="1342" height="161" key="GridCell.Tab.0.left" timestamp="1579118018424">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1342" height="161" key="GridCell.Tab.0.left/0.0.1474.864@0.0.1474.864" timestamp="1579118018424" />
+    <state width="1342" height="161" key="GridCell.Tab.0.right" timestamp="1579118018424">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1342" height="161" key="GridCell.Tab.0.right/0.0.1474.864@0.0.1474.864" timestamp="1579118018424" />
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom" timestamp="1578388053172">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.bottom/0.0.1474.864@0.0.1474.864" timestamp="1578388053172" />
+    <state width="1342" height="258" key="GridCell.Tab.1.center" timestamp="1578388053171">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.center/0.0.1474.864@0.0.1474.864" timestamp="1578388053171" />
+    <state width="1342" height="258" key="GridCell.Tab.1.left" timestamp="1578388053171">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.left/0.0.1474.864@0.0.1474.864" timestamp="1578388053171" />
+    <state width="1342" height="258" key="GridCell.Tab.1.right" timestamp="1578388053172">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state width="1342" height="258" key="GridCell.Tab.1.right/0.0.1474.864@0.0.1474.864" timestamp="1578388053172" />
+    <state x="35" y="103" width="1242" height="707" key="SettingsEditor" timestamp="1578895378707">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="35" y="103" width="1242" height="707" key="SettingsEditor/0.0.1474.864@0.0.1474.864" timestamp="1578895378707" />
+    <state x="458" y="177" width="540" height="524" key="StructurePopup" timestamp="1578219586799">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="458" y="177" width="540" height="524" key="StructurePopup/0.0.1474.864@0.0.1474.864" timestamp="1578219586799" />
+    <state x="417" y="257" key="com.intellij.ide.util.TipDialog" timestamp="1580233973055">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="417" y="257" key="com.intellij.ide.util.TipDialog/0.0.1474.864@0.0.1474.864" timestamp="1580233973055" />
+    <state x="415" y="31" width="642" height="801" key="find.popup" timestamp="1578226513968">
+      <screen x="0" y="0" width="1474" height="864" />
+    </state>
+    <state x="415" y="31" width="642" height="801" key="find.popup/0.0.1474.864@0.0.1474.864" timestamp="1578226513968" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="ans" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>
